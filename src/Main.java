@@ -3,9 +3,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        String test1 ="";
-        String test1 ="";
-        String test1 ="";
+        String test1 ="11";
+        String test2 ="22";
+        String test3 ="33";
         }
     }
 }
